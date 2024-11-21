@@ -1,3 +1,4 @@
 0172. 📚 docs: add API usage examples
 0433. 🐛 fix: prevent crash on empty input
 0073. 🔧 refactor: split large controller into smaller functions
+0553. 🐛 fix: correct typo in registration form
