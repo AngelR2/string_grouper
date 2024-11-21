@@ -1000,3 +1000,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0461. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
+0888. 🚀 perf: lazy-load components
