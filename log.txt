@@ -1002,3 +1002,4 @@
 0471. ✨ feat: support email verification
 0888. 🚀 perf: lazy-load components
 0809. ♻️ chore: rename env.example
+0323. 📚 docs: clarify environment setup
