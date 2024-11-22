@@ -1001,3 +1001,4 @@
 0461. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
 0888. 🚀 perf: lazy-load components
+0809. ♻️ chore: rename env.example
