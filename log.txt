@@ -1003,3 +1003,4 @@
 0888. 🚀 perf: lazy-load components
 0809. ♻️ chore: rename env.example
 0323. 📚 docs: clarify environment setup
+0381. ♻️ chore: clean up unused files
