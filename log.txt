@@ -1007,3 +1007,4 @@
 0875. ✅ test: increase coverage on auth module
 0015. ✨ feat: implement quiz timer feature
 0953. 🎨 style: remove trailing whitespace
+0820. 📚 docs: add API usage examples
