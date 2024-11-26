@@ -1009,3 +1009,4 @@
 0953. 🎨 style: remove trailing whitespace
 0820. 📚 docs: add API usage examples
 0316. 🐛 fix: fix broken CSS in mobile view
+0618. ✨ feat: support email verification
