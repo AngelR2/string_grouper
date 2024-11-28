@@ -1013,3 +1013,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0873. 🚀 perf: cache repeated calculations
 0632. 🎨 style: remove trailing whitespace
+0629. 🔧 refactor: organize models into subfolders
