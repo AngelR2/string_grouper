@@ -1024,3 +1024,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0570. 🎨 style: apply consistent indentation
 0410. 🎨 style: reformat files with black
+0054. ♻️ chore: update .gitignore
