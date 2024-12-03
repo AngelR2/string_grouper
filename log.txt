@@ -1029,3 +1029,4 @@
 0657. 🎨 style: standardize quote style
 0311. 🎨 style: apply consistent indentation
 0853. 🔧 refactor: refactor quiz grading logic
+0900. 🐛 fix: handle 500 error in quiz API
