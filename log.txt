@@ -1032,3 +1032,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0569. 📚 docs: document token refresh logic
 0065. ✅ test: add integration test for /submit endpoint
+0573. ✅ test: add integration test for /submit endpoint
