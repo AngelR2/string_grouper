@@ -1034,3 +1034,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0573. ✅ test: add integration test for /submit endpoint
 0320. 📚 docs: update README with setup steps
+0505. ♻️ chore: add GitHub actions badge
