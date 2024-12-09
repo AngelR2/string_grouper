@@ -26,3 +26,4 @@
 0178. ✨ feat: support email verification
 0272. 🔧 refactor: remove redundant code blocks
 0618. ✨ feat: support email verification
+0790. 📚 docs: write FAQ section
