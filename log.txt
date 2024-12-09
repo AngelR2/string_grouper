@@ -1045,3 +1045,4 @@
 0644. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
 0981. 🚀 perf: lazy-load components
+0329. 📚 docs: update README with setup steps
