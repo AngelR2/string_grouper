@@ -1040,3 +1040,4 @@
 0448. 🐛 fix: correct typo in registration form
 0044. ✅ test: add unit test for quiz service
 0895. ✨ feat: support email verification
+0600. 🐛 fix: prevent crash on empty input
