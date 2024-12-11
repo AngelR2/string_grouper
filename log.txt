@@ -1049,3 +1049,4 @@
 0365. 🚀 perf: reduce image load time
 0957. 🐛 fix: fix null pointer exception on login
 0806. 📚 docs: improve code comments in utils
+0290. ✅ test: test user registration edge cases
