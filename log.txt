@@ -1051,3 +1051,4 @@
 0806. 📚 docs: improve code comments in utils
 0290. ✅ test: test user registration edge cases
 0747. 🔧 refactor: clean up auth middleware
+0075. ✅ test: mock database connection in test suite
