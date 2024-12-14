@@ -37,3 +37,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
 0537. 🔧 refactor: remove redundant code blocks
+0177. 📚 docs: add API usage examples
