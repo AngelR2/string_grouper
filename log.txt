@@ -1061,3 +1061,4 @@
 0787. ♻️ chore: rename env.example
 1000. ✅ test: increase coverage on auth module
 0575. ✅ test: add unit test for quiz service
+0897. 🐛 fix: prevent crash on empty input
