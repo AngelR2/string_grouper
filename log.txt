@@ -1065,3 +1065,4 @@
 0016. 🎨 style: apply consistent indentation
 0949. 📚 docs: write FAQ section
 0191. 🔧 refactor: refactor quiz grading logic
+0935. 📚 docs: update README with setup steps
