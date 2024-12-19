@@ -1070,3 +1070,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0808. 🚀 perf: optimize database query for quiz results
 0162. ♻️ chore: add GitHub actions badge
+0317. ✅ test: test user registration edge cases
