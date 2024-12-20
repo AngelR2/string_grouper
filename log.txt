@@ -50,3 +50,4 @@
 0188. 🎨 style: apply consistent indentation
 0374. 🎨 style: standardize quote style
 0279. ✨ feat: support email verification
+0953. 🎨 style: remove trailing whitespace
