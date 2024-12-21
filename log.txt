@@ -1073,3 +1073,4 @@
 0317. ✅ test: test user registration edge cases
 0178. ✨ feat: support email verification
 0088. 📚 docs: add API usage examples
+0835. 🐛 fix: prevent crash on empty input
