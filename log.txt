@@ -57,3 +57,4 @@
 0656. 🎨 style: apply consistent indentation
 0259. 🚀 perf: lazy-load components
 0155. ✨ feat: create admin dashboard
+0052. 🎨 style: standardize quote style
