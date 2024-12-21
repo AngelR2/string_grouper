@@ -1074,3 +1074,4 @@
 0178. ✨ feat: support email verification
 0088. 📚 docs: add API usage examples
 0835. 🐛 fix: prevent crash on empty input
+0514. 🐛 fix: fix broken CSS in mobile view
