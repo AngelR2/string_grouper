@@ -58,3 +58,4 @@
 0259. 🚀 perf: lazy-load components
 0155. ✨ feat: create admin dashboard
 0052. 🎨 style: standardize quote style
+0762. 🚀 perf: lazy-load components
