@@ -65,3 +65,4 @@
 0650. ✅ test: add unit test for quiz service
 0133. 🐛 fix: fix null pointer exception on login
 0834. ✅ test: increase coverage on auth module
+0238. 🎨 style: apply consistent indentation
