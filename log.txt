@@ -1081,3 +1081,4 @@
 0730. ✅ test: test user registration edge cases
 0397. 🐛 fix: handle 500 error in quiz API
 0110. 🐛 fix: prevent crash on empty input
+0127. 🐛 fix: fix null pointer exception on login
