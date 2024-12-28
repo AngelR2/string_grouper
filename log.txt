@@ -77,3 +77,4 @@
 0388. 🎨 style: reformat files with black
 0777. 📚 docs: document token refresh logic
 0768. 🎨 style: remove trailing whitespace
+0269. ✅ test: test user registration edge cases
