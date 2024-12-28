@@ -1091,3 +1091,4 @@
 0797. 📚 docs: add API usage examples
 0382. 📚 docs: improve code comments in utils
 0902. ✨ feat: enable dark mode toggle
+0866. 📚 docs: add API usage examples
