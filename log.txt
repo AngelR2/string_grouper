@@ -78,3 +78,4 @@
 0777. 📚 docs: document token refresh logic
 0768. 🎨 style: remove trailing whitespace
 0269. ✅ test: test user registration edge cases
+0205. 📚 docs: update README with setup steps
