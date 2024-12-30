@@ -1096,3 +1096,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0528. ♻️ chore: clean up unused files
 0610. 🚀 perf: lazy-load components
+0493. ✨ feat: add user authentication
