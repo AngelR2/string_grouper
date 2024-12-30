@@ -1095,3 +1095,4 @@
 0688. 🚀 perf: reduce image load time
 0223. 🔧 refactor: remove redundant code blocks
 0528. ♻️ chore: clean up unused files
+0610. 🚀 perf: lazy-load components
