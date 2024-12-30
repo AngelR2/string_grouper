@@ -80,3 +80,4 @@
 0269. ✅ test: test user registration edge cases
 0205. 📚 docs: update README with setup steps
 0077. ♻️ chore: rename env.example
+0195. 📚 docs: clarify environment setup
