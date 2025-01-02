@@ -86,3 +86,4 @@
 0233. 🚀 perf: lazy-load components
 0481. ✅ test: add unit test for quiz service
 0868. ✅ test: add unit test for quiz service
+0074. ♻️ chore: add GitHub actions badge
