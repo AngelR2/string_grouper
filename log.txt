@@ -89,3 +89,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0743. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
+0254. 🚀 perf: reduce image load time
