@@ -90,3 +90,4 @@
 0743. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
 0254. 🚀 perf: reduce image load time
+0511. 🐛 fix: fix broken CSS in mobile view
