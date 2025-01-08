@@ -94,3 +94,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0318. 🔧 refactor: refactor quiz grading logic
 0339. 📚 docs: update README with setup steps
+0615. 🐛 fix: correct typo in registration form
