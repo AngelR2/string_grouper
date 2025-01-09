@@ -100,3 +100,4 @@
 0313. 🎨 style: apply consistent indentation
 0744. 🔧 refactor: remove redundant code blocks
 0284. ✨ feat: implement quiz timer feature
+0603. 🐛 fix: fix broken CSS in mobile view
