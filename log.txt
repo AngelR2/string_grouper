@@ -1116,3 +1116,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0469. 🚀 perf: lazy-load components
 0654. ✨ feat: create admin dashboard
+0766. 🎨 style: reformat files with black
