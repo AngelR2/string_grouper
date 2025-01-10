@@ -1117,3 +1117,4 @@
 0469. 🚀 perf: lazy-load components
 0654. ✨ feat: create admin dashboard
 0766. 🎨 style: reformat files with black
+0913. 🚀 perf: optimize database query for quiz results
