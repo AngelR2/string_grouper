@@ -106,3 +106,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0660. 🐛 fix: correct typo in registration form
 0842. 🎨 style: remove trailing whitespace
+0962. ✨ feat: create admin dashboard
