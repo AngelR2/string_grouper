@@ -1127,3 +1127,4 @@
 0928. 🎨 style: apply consistent indentation
 0273. 🚀 perf: reduce image load time
 0115. 🚀 perf: reduce image load time
+0607. 🐛 fix: prevent crash on empty input
