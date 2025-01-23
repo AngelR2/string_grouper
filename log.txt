@@ -121,3 +121,4 @@
 0244. ✨ feat: add export to CSV option
 0978. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
+0048. 📚 docs: update README with setup steps
