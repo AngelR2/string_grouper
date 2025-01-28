@@ -130,3 +130,4 @@
 0706. ✨ feat: support email verification
 0789. ✨ feat: create admin dashboard
 0285. 🐛 fix: resolve issue with date parsing
+0587. 🔧 refactor: remove redundant code blocks
