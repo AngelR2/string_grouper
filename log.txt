@@ -1150,3 +1150,4 @@
 0997. ✅ test: increase coverage on auth module
 0025. 🚀 perf: optimize database query for quiz results
 0459. 🔧 refactor: organize models into subfolders
+0049. 🐛 fix: handle 500 error in quiz API
