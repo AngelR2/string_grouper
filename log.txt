@@ -135,3 +135,4 @@
 0342. 🚀 perf: cache repeated calculations
 0604. 📚 docs: add API usage examples
 0301. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
