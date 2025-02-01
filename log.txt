@@ -1155,3 +1155,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0604. 📚 docs: add API usage examples
 0357. ✅ test: add unit test for quiz service
+0786. ✨ feat: enable dark mode toggle
