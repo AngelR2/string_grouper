@@ -138,3 +138,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0113. ✨ feat: add user authentication
 0669. ✨ feat: enable dark mode toggle
+0468. 📚 docs: update README with setup steps
