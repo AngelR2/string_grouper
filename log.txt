@@ -142,3 +142,4 @@
 0295. 🎨 style: remove trailing whitespace
 0491. 🚀 perf: lazy-load components
 0614. 🚀 perf: reduce image load time
+0116. ✨ feat: support email verification
