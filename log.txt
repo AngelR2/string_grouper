@@ -1158,3 +1158,4 @@
 0786. ✨ feat: enable dark mode toggle
 0414. 🔧 refactor: remove redundant code blocks
 0077. ♻️ chore: rename env.example
+0355. 🚀 perf: optimize database query for quiz results
