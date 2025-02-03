@@ -146,3 +146,4 @@
 0558. ✨ feat: enable dark mode toggle
 0542. 🔧 refactor: organize models into subfolders
 0299. 🐛 fix: resolve issue with date parsing
+0548. 📚 docs: write FAQ section
