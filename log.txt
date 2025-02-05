@@ -149,3 +149,4 @@
 0548. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
 0935. 📚 docs: update README with setup steps
+0804. ♻️ chore: add GitHub actions badge
