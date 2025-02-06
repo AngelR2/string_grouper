@@ -150,3 +150,4 @@
 0687. 🎨 style: remove trailing whitespace
 0935. 📚 docs: update README with setup steps
 0804. ♻️ chore: add GitHub actions badge
+0695. ✨ feat: create admin dashboard
