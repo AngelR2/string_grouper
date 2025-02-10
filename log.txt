@@ -1176,3 +1176,4 @@
 0819. 🚀 perf: reduce image load time
 0455. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
+0611. ✅ test: test user registration edge cases
