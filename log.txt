@@ -159,3 +159,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0958. 🐛 fix: prevent crash on empty input
 0011. ✅ test: add unit test for quiz service
+0362. 📚 docs: add API usage examples
