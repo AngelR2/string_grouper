@@ -1178,3 +1178,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0611. ✅ test: test user registration edge cases
 0463. 🚀 perf: reduce image load time
+0669. ✨ feat: enable dark mode toggle
