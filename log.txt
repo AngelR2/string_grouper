@@ -1180,3 +1180,4 @@
 0463. 🚀 perf: reduce image load time
 0669. ✨ feat: enable dark mode toggle
 0234. ♻️ chore: rename env.example
+0479. 🐛 fix: fix null pointer exception on login
