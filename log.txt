@@ -175,3 +175,4 @@
 0697. ♻️ chore: bump dependencies
 0689. 🎨 style: reformat files with black
 0646. ✅ test: test user registration edge cases
+0645. 🐛 fix: resolve issue with date parsing
