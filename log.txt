@@ -173,3 +173,4 @@
 0330. ✅ test: test user registration edge cases
 0534. 🔧 refactor: split large controller into smaller functions
 0697. ♻️ chore: bump dependencies
+0689. 🎨 style: reformat files with black
