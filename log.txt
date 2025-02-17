@@ -178,3 +178,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0547. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
+0111. 📚 docs: update README with setup steps
