@@ -1186,3 +1186,4 @@
 0019. ✨ feat: enable dark mode toggle
 0024. 📚 docs: write FAQ section
 0865. ♻️ chore: add GitHub actions badge
+0574. ✨ feat: enable dark mode toggle
