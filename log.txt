@@ -180,3 +180,4 @@
 0372. ✨ feat: add user authentication
 0111. 📚 docs: update README with setup steps
 0504. 📚 docs: document token refresh logic
+0475. 🔧 refactor: clean up auth middleware
