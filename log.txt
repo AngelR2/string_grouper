@@ -187,3 +187,4 @@
 0851. ✅ test: mock database connection in test suite
 0448. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
+0786. ✨ feat: enable dark mode toggle
