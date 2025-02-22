@@ -186,3 +186,4 @@
 0095. ✅ test: mock database connection in test suite
 0851. ✅ test: mock database connection in test suite
 0448. 🐛 fix: correct typo in registration form
+0556. ✨ feat: support email verification
