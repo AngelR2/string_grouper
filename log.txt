@@ -1198,3 +1198,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0485. 📚 docs: update README with setup steps
 0884. 📚 docs: clarify environment setup
+0673. 🐛 fix: correct typo in registration form
