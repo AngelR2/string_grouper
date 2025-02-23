@@ -192,3 +192,4 @@
 0138. 🎨 style: rename variables for clarity
 0934. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
+0877. 🚀 perf: optimize database query for quiz results
