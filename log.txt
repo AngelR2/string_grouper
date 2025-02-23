@@ -191,3 +191,4 @@
 0197. 📚 docs: update README with setup steps
 0138. 🎨 style: rename variables for clarity
 0934. ✨ feat: support email verification
+0666. 🐛 fix: fix broken CSS in mobile view
