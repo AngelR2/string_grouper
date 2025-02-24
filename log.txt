@@ -193,3 +193,4 @@
 0934. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
 0877. 🚀 perf: optimize database query for quiz results
+0213. ✅ test: add integration test for /submit endpoint
