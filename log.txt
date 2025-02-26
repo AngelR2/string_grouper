@@ -199,3 +199,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
 0140. 🐛 fix: handle 500 error in quiz API
+0189. 📚 docs: clarify environment setup
