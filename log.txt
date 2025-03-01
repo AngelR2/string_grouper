@@ -1214,3 +1214,4 @@
 0646. ✅ test: test user registration edge cases
 0458. ✨ feat: create admin dashboard
 0855. 🎨 style: reformat files with black
+0249. ✅ test: increase coverage on auth module
