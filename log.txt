@@ -1217,3 +1217,4 @@
 0249. ✅ test: increase coverage on auth module
 0796. 🔧 refactor: refactor quiz grading logic
 0927. ♻️ chore: bump dependencies
+0298. ♻️ chore: update .gitignore
