@@ -216,3 +216,4 @@
 0566. 📚 docs: write FAQ section
 0242. ♻️ chore: clean up unused files
 0358. 🚀 perf: reduce image load time
+0363. 📚 docs: clarify environment setup
