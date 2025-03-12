@@ -1236,3 +1236,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0546. 🐛 fix: fix null pointer exception on login
 0585. 🚀 perf: lazy-load components
+0852. ✨ feat: enable dark mode toggle
