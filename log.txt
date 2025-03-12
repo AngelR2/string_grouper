@@ -1235,3 +1235,4 @@
 0232. 🎨 style: apply consistent indentation
 0972. 🔧 refactor: refactor quiz grading logic
 0546. 🐛 fix: fix null pointer exception on login
+0585. 🚀 perf: lazy-load components
