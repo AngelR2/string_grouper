@@ -1240,3 +1240,4 @@
 0861. ♻️ chore: clean up unused files
 0040. 🔧 refactor: clean up auth middleware
 0826. 📚 docs: clarify environment setup
+0711. 🐛 fix: fix broken CSS in mobile view
