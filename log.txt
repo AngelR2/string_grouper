@@ -225,3 +225,4 @@
 0679. ♻️ chore: bump dependencies
 0260. ✨ feat: create admin dashboard
 0676. 🐛 fix: prevent crash on empty input
+0182. 🔧 refactor: remove redundant code blocks
