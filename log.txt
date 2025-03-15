@@ -1243,3 +1243,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0640. ♻️ chore: bump dependencies
 0370. 🚀 perf: reduce image load time
+0651. ✨ feat: enable dark mode toggle
