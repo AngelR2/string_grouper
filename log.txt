@@ -1246,3 +1246,4 @@
 0651. ✨ feat: enable dark mode toggle
 0784. ♻️ chore: clean up unused files
 0487. 🎨 style: reformat files with black
+0243. 🔧 refactor: clean up auth middleware
