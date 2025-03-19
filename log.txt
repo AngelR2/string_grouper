@@ -1252,3 +1252,4 @@
 0237. 🎨 style: standardize quote style
 0451. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
+0472. 🐛 fix: fix null pointer exception on login
