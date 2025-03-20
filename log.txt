@@ -1253,3 +1253,4 @@
 0451. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
 0472. 🐛 fix: fix null pointer exception on login
+0269. ✅ test: test user registration edge cases
