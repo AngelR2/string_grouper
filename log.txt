@@ -237,3 +237,4 @@
 0027. 📚 docs: clarify environment setup
 0631. ✨ feat: create admin dashboard
 0505. ♻️ chore: add GitHub actions badge
+0812. 🔧 refactor: refactor quiz grading logic
