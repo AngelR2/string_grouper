@@ -241,3 +241,4 @@
 0291. 📚 docs: write FAQ section
 0001. 🚀 perf: cache repeated calculations
 0237. 🎨 style: standardize quote style
+0849. 🐛 fix: correct typo in registration form
