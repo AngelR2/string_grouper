@@ -245,3 +245,4 @@
 0773. 📚 docs: document token refresh logic
 0378. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
+0922. 📚 docs: write FAQ section
