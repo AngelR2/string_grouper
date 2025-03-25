@@ -250,3 +250,4 @@
 0844. 📚 docs: update README with setup steps
 0794. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
+0557. 🔧 refactor: clean up auth middleware
