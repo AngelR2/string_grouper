@@ -248,3 +248,4 @@
 0922. 📚 docs: write FAQ section
 0477. 🐛 fix: fix broken CSS in mobile view
 0844. 📚 docs: update README with setup steps
+0794. ♻️ chore: clean up unused files
