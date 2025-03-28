@@ -1268,3 +1268,4 @@
 0566. 📚 docs: write FAQ section
 0169. 📚 docs: add API usage examples
 0522. 🐛 fix: handle 500 error in quiz API
+0105. 🐛 fix: correct typo in registration form
