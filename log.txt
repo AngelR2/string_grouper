@@ -260,3 +260,4 @@
 0981. 🚀 perf: lazy-load components
 0319. 🐛 fix: handle 500 error in quiz API
 0654. ✨ feat: create admin dashboard
+0006. 🐛 fix: prevent crash on empty input
