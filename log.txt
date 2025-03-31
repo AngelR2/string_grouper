@@ -1278,3 +1278,4 @@
 0862. ♻️ chore: bump dependencies
 0313. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
+0004. 🚀 perf: optimize database query for quiz results
