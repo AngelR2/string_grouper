@@ -273,3 +273,4 @@
 0543. ✨ feat: support email verification
 0796. 🔧 refactor: refactor quiz grading logic
 0815. 🔧 refactor: split large controller into smaller functions
+0632. 🎨 style: remove trailing whitespace
