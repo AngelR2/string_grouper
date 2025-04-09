@@ -1289,3 +1289,4 @@
 0051. ✨ feat: enable dark mode toggle
 0425. 🔧 refactor: refactor quiz grading logic
 0215. 🎨 style: reformat files with black
+0969. ✨ feat: create admin dashboard
