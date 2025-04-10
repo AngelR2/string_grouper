@@ -1293,3 +1293,4 @@
 0431. 🎨 style: reformat files with black
 0925. ✨ feat: add export to CSV option
 0007. 🎨 style: rename variables for clarity
+0680. ♻️ chore: add GitHub actions badge
