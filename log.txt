@@ -1291,3 +1291,4 @@
 0215. 🎨 style: reformat files with black
 0969. ✨ feat: create admin dashboard
 0431. 🎨 style: reformat files with black
+0925. ✨ feat: add export to CSV option
