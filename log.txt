@@ -276,3 +276,4 @@
 0632. 🎨 style: remove trailing whitespace
 0509. ♻️ chore: bump dependencies
 0756. ✨ feat: support email verification
+0100. ♻️ chore: update .gitignore
