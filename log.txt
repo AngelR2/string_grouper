@@ -280,3 +280,4 @@
 0142. ✨ feat: implement quiz timer feature
 0739. 🎨 style: remove trailing whitespace
 0227. ✅ test: test user registration edge cases
+0809. ♻️ chore: rename env.example
