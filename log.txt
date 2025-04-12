@@ -1300,3 +1300,4 @@
 0031. 📚 docs: document token refresh logic
 0227. ✅ test: test user registration edge cases
 0679. ♻️ chore: bump dependencies
+0874. 🔧 refactor: split large controller into smaller functions
