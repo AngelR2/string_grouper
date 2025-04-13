@@ -1302,3 +1302,4 @@
 0679. ♻️ chore: bump dependencies
 0874. 🔧 refactor: split large controller into smaller functions
 0130. 🔧 refactor: split large controller into smaller functions
+0863. 🐛 fix: correct typo in registration form
