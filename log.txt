@@ -284,3 +284,4 @@
 0297. 🎨 style: remove trailing whitespace
 0092. 🚀 perf: reduce image load time
 0707. 🎨 style: apply consistent indentation
+0986. 📚 docs: document token refresh logic
