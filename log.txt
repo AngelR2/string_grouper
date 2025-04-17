@@ -292,3 +292,4 @@
 0947. 📚 docs: write FAQ section
 0806. 📚 docs: improve code comments in utils
 0530. 🔧 refactor: refactor quiz grading logic
+0470. 🎨 style: remove trailing whitespace
