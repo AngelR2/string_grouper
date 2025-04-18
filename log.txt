@@ -295,3 +295,4 @@
 0470. 🎨 style: remove trailing whitespace
 0583. ✅ test: increase coverage on auth module
 0949. 📚 docs: write FAQ section
+0447. ♻️ chore: bump dependencies
