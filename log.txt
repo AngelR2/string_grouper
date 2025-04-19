@@ -296,3 +296,4 @@
 0583. ✅ test: increase coverage on auth module
 0949. 📚 docs: write FAQ section
 0447. ♻️ chore: bump dependencies
+0030. 🐛 fix: fix null pointer exception on login
