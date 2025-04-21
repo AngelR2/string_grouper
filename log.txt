@@ -1317,3 +1317,4 @@
 0226. 🚀 perf: lazy-load components
 0161. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
+0932. ✅ test: add integration test for /submit endpoint
