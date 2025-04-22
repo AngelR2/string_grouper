@@ -301,3 +301,4 @@
 0529. 📚 docs: write FAQ section
 0487. 🎨 style: reformat files with black
 0493. ✨ feat: add user authentication
+0122. ✨ feat: support email verification
