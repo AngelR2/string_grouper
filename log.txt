@@ -304,3 +304,4 @@
 0122. ✨ feat: support email verification
 0214. 📚 docs: improve code comments in utils
 0751. 🐛 fix: handle 500 error in quiz API
+0998. 🐛 fix: fix null pointer exception on login
