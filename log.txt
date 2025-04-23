@@ -303,3 +303,4 @@
 0493. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
 0214. 📚 docs: improve code comments in utils
+0751. 🐛 fix: handle 500 error in quiz API
