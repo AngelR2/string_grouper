@@ -1323,3 +1323,4 @@
 0903. ✅ test: mock database connection in test suite
 0605. ✨ feat: support email verification
 0094. 📚 docs: document token refresh logic
+0092. 🚀 perf: reduce image load time
