@@ -305,3 +305,4 @@
 0214. 📚 docs: improve code comments in utils
 0751. 🐛 fix: handle 500 error in quiz API
 0998. 🐛 fix: fix null pointer exception on login
+0833. ✨ feat: add user authentication
