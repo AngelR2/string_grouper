@@ -309,3 +309,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0010. ✨ feat: add user authentication
 0035. ✅ test: increase coverage on auth module
+0203. 🚀 perf: lazy-load components
