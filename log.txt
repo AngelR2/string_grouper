@@ -311,3 +311,4 @@
 0035. ✅ test: increase coverage on auth module
 0203. 🚀 perf: lazy-load components
 0257. 📚 docs: clarify environment setup
+0699. 🎨 style: standardize quote style
