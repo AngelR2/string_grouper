@@ -313,3 +313,4 @@
 0257. 📚 docs: clarify environment setup
 0699. 🎨 style: standardize quote style
 0544. 🔧 refactor: organize models into subfolders
+0895. ✨ feat: support email verification
