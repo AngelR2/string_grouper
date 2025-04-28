@@ -1331,3 +1331,4 @@
 0504. 📚 docs: document token refresh logic
 0150. 🎨 style: remove trailing whitespace
 0876. ♻️ chore: rename env.example
+0331. 🐛 fix: fix broken CSS in mobile view
