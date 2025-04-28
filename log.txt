@@ -1330,3 +1330,4 @@
 0670. ✨ feat: add export to CSV option
 0504. 📚 docs: document token refresh logic
 0150. 🎨 style: remove trailing whitespace
+0876. ♻️ chore: rename env.example
