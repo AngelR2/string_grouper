@@ -318,3 +318,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0972. 🔧 refactor: refactor quiz grading logic
 0622. 🎨 style: apply consistent indentation
+0135. ✅ test: test user registration edge cases
