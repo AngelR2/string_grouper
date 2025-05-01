@@ -322,3 +322,4 @@
 0824. 🚀 perf: lazy-load components
 0147. ♻️ chore: bump dependencies
 0461. ✨ feat: add user authentication
+0248. 🐛 fix: handle 500 error in quiz API
