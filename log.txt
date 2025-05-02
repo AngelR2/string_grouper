@@ -1338,3 +1338,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0988. 🐛 fix: fix broken CSS in mobile view
+0676. 🐛 fix: prevent crash on empty input
