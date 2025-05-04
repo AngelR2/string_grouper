@@ -1342,3 +1342,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0413. ✅ test: add integration test for /submit endpoint
 0578. ✅ test: add integration test for /submit endpoint
+0221. ✨ feat: add user authentication
