@@ -328,3 +328,4 @@
 0764. ✨ feat: add user authentication
 0521. 🎨 style: standardize quote style
 0747. 🔧 refactor: clean up auth middleware
+0437. 📚 docs: clarify environment setup
