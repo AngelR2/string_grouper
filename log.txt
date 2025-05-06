@@ -327,3 +327,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
 0521. 🎨 style: standardize quote style
+0747. 🔧 refactor: clean up auth middleware
