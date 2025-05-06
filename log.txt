@@ -1350,3 +1350,4 @@
 0749. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
 0682. ♻️ chore: rename env.example
+0832. 🔧 refactor: remove redundant code blocks
