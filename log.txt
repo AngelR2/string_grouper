@@ -1352,3 +1352,4 @@
 0682. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
 0140. 🐛 fix: handle 500 error in quiz API
+0692. ✅ test: add integration test for /submit endpoint
