@@ -1351,3 +1351,4 @@
 0555. ✨ feat: create admin dashboard
 0682. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
+0140. 🐛 fix: handle 500 error in quiz API
