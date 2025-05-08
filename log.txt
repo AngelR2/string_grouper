@@ -1356,3 +1356,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0521. 🎨 style: standardize quote style
 0519. 📚 docs: document token refresh logic
+0872. 🎨 style: rename variables for clarity
