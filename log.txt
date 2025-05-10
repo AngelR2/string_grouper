@@ -1361,3 +1361,4 @@
 0719. 🎨 style: apply consistent indentation
 0777. 📚 docs: document token refresh logic
 0186. ✅ test: test user registration edge cases
+0292. 📚 docs: clarify environment setup
