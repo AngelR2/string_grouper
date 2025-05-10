@@ -1360,3 +1360,4 @@
 0509. ♻️ chore: bump dependencies
 0719. 🎨 style: apply consistent indentation
 0777. 📚 docs: document token refresh logic
+0186. ✅ test: test user registration edge cases
