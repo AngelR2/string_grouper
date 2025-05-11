@@ -343,3 +343,4 @@
 0904. ✨ feat: implement quiz timer feature
 0042. 📚 docs: document token refresh logic
 0766. 🎨 style: reformat files with black
+0321. 🔧 refactor: organize models into subfolders
