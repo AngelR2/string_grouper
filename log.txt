@@ -346,3 +346,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0198. 📚 docs: clarify environment setup
 0062. ♻️ chore: update .gitignore
+0930. 🎨 style: apply consistent indentation
