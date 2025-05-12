@@ -1364,3 +1364,4 @@
 0292. 📚 docs: clarify environment setup
 0854. ♻️ chore: rename env.example
 0131. 📚 docs: write FAQ section
+0108. 🎨 style: remove trailing whitespace
