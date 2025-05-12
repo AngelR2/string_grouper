@@ -1366,3 +1366,4 @@
 0131. 📚 docs: write FAQ section
 0108. 🎨 style: remove trailing whitespace
 0153. ♻️ chore: rename env.example
+0173. 🚀 perf: cache repeated calculations
