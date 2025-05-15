@@ -1375,3 +1375,4 @@
 0335. ♻️ chore: update .gitignore
 0082. 🔧 refactor: refactor quiz grading logic
 0664. ✅ test: add unit test for quiz service
+0418. ✅ test: mock database connection in test suite
