@@ -1376,3 +1376,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0664. ✅ test: add unit test for quiz service
 0418. ✅ test: mock database connection in test suite
+0384. 📚 docs: clarify environment setup
