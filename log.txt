@@ -359,3 +359,4 @@
 0056. ♻️ chore: rename env.example
 0369. 🎨 style: standardize quote style
 0939. 📚 docs: update README with setup steps
+0249. ✅ test: increase coverage on auth module
