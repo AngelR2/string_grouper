@@ -361,3 +361,4 @@
 0939. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
 0643. 🎨 style: apply consistent indentation
+0361. ✨ feat: support email verification
