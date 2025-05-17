@@ -1379,3 +1379,4 @@
 0384. 📚 docs: clarify environment setup
 0123. ✨ feat: implement quiz timer feature
 0440. 📚 docs: update README with setup steps
+0246. ✅ test: add integration test for /submit endpoint
