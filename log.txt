@@ -360,3 +360,4 @@
 0369. 🎨 style: standardize quote style
 0939. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
+0643. 🎨 style: apply consistent indentation
