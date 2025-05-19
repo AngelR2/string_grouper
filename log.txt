@@ -368,3 +368,4 @@
 0798. 🚀 perf: reduce image load time
 0471. ✨ feat: support email verification
 0356. 📚 docs: write FAQ section
+0463. 🚀 perf: reduce image load time
