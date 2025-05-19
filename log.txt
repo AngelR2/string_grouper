@@ -365,3 +365,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0435. ✅ test: add unit test for quiz service
 0957. 🐛 fix: fix null pointer exception on login
+0798. 🚀 perf: reduce image load time
