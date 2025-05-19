@@ -366,3 +366,4 @@
 0435. ✅ test: add unit test for quiz service
 0957. 🐛 fix: fix null pointer exception on login
 0798. 🚀 perf: reduce image load time
+0471. ✨ feat: support email verification
