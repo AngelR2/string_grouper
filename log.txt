@@ -372,3 +372,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0653. 🐛 fix: prevent crash on empty input
 0952. 🔧 refactor: split large controller into smaller functions
+0212. 🎨 style: standardize quote style
