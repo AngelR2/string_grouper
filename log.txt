@@ -1394,3 +1394,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0580. ♻️ chore: bump dependencies
 0759. 🔧 refactor: organize models into subfolders
+0536. ✨ feat: add user authentication
