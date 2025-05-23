@@ -375,3 +375,4 @@
 0212. 🎨 style: standardize quote style
 0421. 🔧 refactor: split large controller into smaller functions
 0690. 🚀 perf: lazy-load components
+0078. ♻️ chore: update .gitignore
