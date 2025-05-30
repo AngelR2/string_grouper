@@ -1408,3 +1408,4 @@
 0912. 📚 docs: document token refresh logic
 0561. 📚 docs: write FAQ section
 0204. 🎨 style: standardize quote style
+0538. 🐛 fix: fix broken CSS in mobile view
