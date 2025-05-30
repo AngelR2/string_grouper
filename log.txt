@@ -1409,3 +1409,4 @@
 0561. 📚 docs: write FAQ section
 0204. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
+0650. ✅ test: add unit test for quiz service
