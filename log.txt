@@ -1410,3 +1410,4 @@
 0204. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
 0650. ✅ test: add unit test for quiz service
+0041. 🐛 fix: fix broken CSS in mobile view
