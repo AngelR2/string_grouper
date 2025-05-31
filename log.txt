@@ -392,3 +392,4 @@
 0145. 📚 docs: improve code comments in utils
 0166. 🚀 perf: cache repeated calculations
 0455. ♻️ chore: clean up unused files
+0359. 🔧 refactor: clean up auth middleware
