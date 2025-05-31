@@ -1413,3 +1413,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0831. 📚 docs: clarify environment setup
 0824. 🚀 perf: lazy-load components
+0738. 🐛 fix: prevent crash on empty input
