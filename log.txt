@@ -400,3 +400,4 @@
 0410. 🎨 style: reformat files with black
 0973. 🔧 refactor: organize models into subfolders
 0401. 🚀 perf: reduce image load time
+0231. 🔧 refactor: clean up auth middleware
