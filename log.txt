@@ -1423,3 +1423,4 @@
 0419. 🎨 style: remove trailing whitespace
 0976. ✨ feat: implement quiz timer feature
 0986. 📚 docs: document token refresh logic
+0496. ✅ test: add integration test for /submit endpoint
