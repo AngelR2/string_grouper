@@ -406,3 +406,4 @@
 0305. ✨ feat: enable dark mode toggle
 0950. 🎨 style: reformat files with black
 0266. 🔧 refactor: remove redundant code blocks
+0036. 🔧 refactor: clean up auth middleware
