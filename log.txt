@@ -1429,3 +1429,4 @@
 0597. 🚀 perf: cache repeated calculations
 0635. 🎨 style: apply consistent indentation
 0727. ♻️ chore: add GitHub actions badge
+0372. ✨ feat: add user authentication
