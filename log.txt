@@ -421,3 +421,4 @@
 0175. 📚 docs: add API usage examples
 0098. 🎨 style: rename variables for clarity
 0572. ✨ feat: add user authentication
+0800. 🚀 perf: optimize database query for quiz results
