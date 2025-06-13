@@ -422,3 +422,4 @@
 0098. 🎨 style: rename variables for clarity
 0572. ✨ feat: add user authentication
 0800. 🚀 perf: optimize database query for quiz results
+0626. 🎨 style: standardize quote style
