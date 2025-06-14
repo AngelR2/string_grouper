@@ -1440,3 +1440,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0744. 🔧 refactor: remove redundant code blocks
 0942. ✅ test: increase coverage on auth module
+0121. ✨ feat: support email verification
