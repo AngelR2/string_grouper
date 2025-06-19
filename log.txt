@@ -1450,3 +1450,4 @@
 0210. 🎨 style: apply consistent indentation
 0901. ✨ feat: add user authentication
 0729. 🔧 refactor: refactor quiz grading logic
+0653. 🐛 fix: prevent crash on empty input
