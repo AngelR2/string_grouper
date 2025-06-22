@@ -435,3 +435,4 @@
 0158. 📚 docs: clarify environment setup
 0164. 📚 docs: document token refresh logic
 0137. 🎨 style: rename variables for clarity
+0099. 🚀 perf: reduce image load time
