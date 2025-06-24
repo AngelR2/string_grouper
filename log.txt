@@ -439,3 +439,4 @@
 0848. 📚 docs: update README with setup steps
 0691. 🎨 style: rename variables for clarity
 0457. 🐛 fix: handle 500 error in quiz API
+0496. ✅ test: add integration test for /submit endpoint
