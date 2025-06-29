@@ -1467,3 +1467,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0792. 🎨 style: standardize quote style
 0773. 📚 docs: document token refresh logic
+0833. ✨ feat: add user authentication
