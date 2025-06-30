@@ -1469,3 +1469,4 @@
 0773. 📚 docs: document token refresh logic
 0833. ✨ feat: add user authentication
 0001. 🚀 perf: cache repeated calculations
+0592. 📚 docs: add API usage examples
