@@ -457,3 +457,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0194. 🎨 style: standardize quote style
 0850. ♻️ chore: rename env.example
+0522. 🐛 fix: handle 500 error in quiz API
