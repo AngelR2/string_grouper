@@ -460,3 +460,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0117. ✅ test: increase coverage on auth module
 0454. ♻️ chore: bump dependencies
+0054. ♻️ chore: update .gitignore
