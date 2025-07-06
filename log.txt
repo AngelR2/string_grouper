@@ -1479,3 +1479,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0484. 🐛 fix: handle 500 error in quiz API
 0867. 🔧 refactor: refactor quiz grading logic
+0006. 🐛 fix: prevent crash on empty input
