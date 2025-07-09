@@ -1486,3 +1486,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0207. 🐛 fix: prevent crash on empty input
 0492. 🎨 style: remove trailing whitespace
+0752. ✅ test: add integration test for /submit endpoint
