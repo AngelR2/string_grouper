@@ -471,3 +471,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0438. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
+0727. ♻️ chore: add GitHub actions badge
