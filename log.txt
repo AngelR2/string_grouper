@@ -476,3 +476,4 @@
 0013. ✅ test: increase coverage on auth module
 0079. 🐛 fix: correct typo in registration form
 0599. ✅ test: test user registration edge cases
+0595. ✨ feat: enable dark mode toggle
