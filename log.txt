@@ -1493,3 +1493,4 @@
 0257. 📚 docs: clarify environment setup
 0203. 🚀 perf: lazy-load components
 0847. ♻️ chore: clean up unused files
+0540. ♻️ chore: add GitHub actions badge
