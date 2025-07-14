@@ -1491,3 +1491,4 @@
 0620. ✨ feat: implement quiz timer feature
 0637. 🎨 style: apply consistent indentation
 0257. 📚 docs: clarify environment setup
+0203. 🚀 perf: lazy-load components
