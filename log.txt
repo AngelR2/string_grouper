@@ -480,3 +480,4 @@
 0519. 📚 docs: document token refresh logic
 0914. ✅ test: test user registration edge cases
 0076. 🎨 style: reformat files with black
+0115. 🚀 perf: reduce image load time
