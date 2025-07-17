@@ -490,3 +490,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0512. 🚀 perf: reduce image load time
 0902. ✨ feat: enable dark mode toggle
+0201. 🔧 refactor: clean up auth middleware
