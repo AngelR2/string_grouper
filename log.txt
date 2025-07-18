@@ -494,3 +494,4 @@
 0090. ✅ test: increase coverage on auth module
 0885. ♻️ chore: update .gitignore
 0956. 📚 docs: clarify environment setup
+0462. ♻️ chore: update .gitignore
