@@ -497,3 +497,4 @@
 0462. ♻️ chore: update .gitignore
 0742. 📚 docs: clarify environment setup
 0464. 🎨 style: remove trailing whitespace
+0859. ✨ feat: create admin dashboard
