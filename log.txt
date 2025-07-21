@@ -1502,3 +1502,4 @@
 0009. ✨ feat: enable dark mode toggle
 0586. 🎨 style: remove trailing whitespace
 0124. 🎨 style: reformat files with black
+0879. 🎨 style: standardize quote style
