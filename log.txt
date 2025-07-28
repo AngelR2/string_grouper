@@ -515,3 +515,4 @@
 0989. 📚 docs: write FAQ section
 0173. 🚀 perf: cache repeated calculations
 0184. 📚 docs: improve code comments in utils
+0961. 📚 docs: add API usage examples
