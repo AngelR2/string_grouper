@@ -522,3 +522,4 @@
 0681. ✨ feat: create admin dashboard
 0638. 📚 docs: improve code comments in utils
 0723. 🔧 refactor: remove redundant code blocks
+0829. 🔧 refactor: organize models into subfolders
