@@ -1525,3 +1525,4 @@
 0858. ♻️ chore: clean up unused files
 0963. 🚀 perf: reduce image load time
 0179. 🔧 refactor: split large controller into smaller functions
+0171. 🐛 fix: fix broken CSS in mobile view
