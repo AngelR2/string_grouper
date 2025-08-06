@@ -1529,3 +1529,4 @@
 0982. 🚀 perf: lazy-load components
 0021. ✨ feat: support email verification
 0376. 🎨 style: apply consistent indentation
+0480. ♻️ chore: add GitHub actions badge
