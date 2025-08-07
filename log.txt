@@ -1533,3 +1533,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0385. ♻️ chore: clean up unused files
 0500. ✅ test: add integration test for /submit endpoint
+0524. ♻️ chore: rename env.example
