@@ -1535,3 +1535,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0524. ♻️ chore: rename env.example
 0685. ✅ test: test user registration edge cases
+0363. 📚 docs: clarify environment setup
