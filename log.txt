@@ -542,3 +542,4 @@
 0287. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
 0889. 🚀 perf: lazy-load components
+0612. ✅ test: test user registration edge cases
