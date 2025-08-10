@@ -1538,3 +1538,4 @@
 0363. 📚 docs: clarify environment setup
 0838. 🎨 style: standardize quote style
 0352. ✨ feat: add export to CSV option
+0823. ✨ feat: add user authentication
