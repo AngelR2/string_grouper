@@ -1537,3 +1537,4 @@
 0685. ✅ test: test user registration edge cases
 0363. 📚 docs: clarify environment setup
 0838. 🎨 style: standardize quote style
+0352. ✨ feat: add export to CSV option
