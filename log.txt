@@ -1548,3 +1548,4 @@
 0741. 🎨 style: apply consistent indentation
 0450. 🐛 fix: fix broken CSS in mobile view
 0347. ♻️ chore: update .gitignore
+0545. 🎨 style: standardize quote style
