@@ -551,3 +551,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0520. 🐛 fix: fix null pointer exception on login
 0026. 🔧 refactor: clean up auth middleware
+0683. ✅ test: mock database connection in test suite
