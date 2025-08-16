@@ -1551,3 +1551,4 @@
 0545. 🎨 style: standardize quote style
 0250. 📚 docs: update README with setup steps
 0030. 🐛 fix: fix null pointer exception on login
+0066. 🔧 refactor: clean up auth middleware
