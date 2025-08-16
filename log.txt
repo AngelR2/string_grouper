@@ -556,3 +556,4 @@
 0412. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
 0625. 🐛 fix: handle 500 error in quiz API
+0390. 🎨 style: standardize quote style
