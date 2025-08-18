@@ -562,3 +562,4 @@
 0916. ♻️ chore: bump dependencies
 0665. ♻️ chore: update .gitignore
 0740. 🐛 fix: resolve issue with date parsing
+0826. 📚 docs: clarify environment setup
