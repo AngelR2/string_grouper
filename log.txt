@@ -1556,3 +1556,4 @@
 0634. 🎨 style: reformat files with black
 0755. 🚀 perf: cache repeated calculations
 0581. ✅ test: add integration test for /submit endpoint
+0989. 📚 docs: write FAQ section
