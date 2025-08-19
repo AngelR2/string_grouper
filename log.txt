@@ -563,3 +563,4 @@
 0665. ♻️ chore: update .gitignore
 0740. 🐛 fix: resolve issue with date parsing
 0826. 📚 docs: clarify environment setup
+0722. 📚 docs: add API usage examples
