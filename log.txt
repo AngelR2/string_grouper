@@ -1559,3 +1559,4 @@
 0989. 📚 docs: write FAQ section
 0488. ♻️ chore: add GitHub actions badge
 0735. ♻️ chore: add GitHub actions badge
+0059. ♻️ chore: bump dependencies
