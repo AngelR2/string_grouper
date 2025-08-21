@@ -1563,3 +1563,4 @@
 0374. 🎨 style: standardize quote style
 0266. 🔧 refactor: remove redundant code blocks
 0180. ✨ feat: add export to CSV option
+0358. 🚀 perf: reduce image load time
