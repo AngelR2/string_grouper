@@ -569,3 +569,4 @@
 0458. ✨ feat: create admin dashboard
 0168. ✅ test: add integration test for /submit endpoint
 0514. 🐛 fix: fix broken CSS in mobile view
+0908. ♻️ chore: bump dependencies
