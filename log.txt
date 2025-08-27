@@ -578,3 +578,4 @@
 0640. ♻️ chore: bump dependencies
 0067. 🔧 refactor: remove redundant code blocks
 0610. 🚀 perf: lazy-load components
+0735. ♻️ chore: add GitHub actions badge
