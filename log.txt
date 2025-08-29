@@ -583,3 +583,4 @@
 0251. ♻️ chore: update .gitignore
 0864. 🐛 fix: correct typo in registration form
 0034. 📚 docs: improve code comments in utils
+0778. 📚 docs: write FAQ section
