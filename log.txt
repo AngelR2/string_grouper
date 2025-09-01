@@ -586,3 +586,4 @@
 0778. 📚 docs: write FAQ section
 0784. ♻️ chore: clean up unused files
 0992. ♻️ chore: clean up unused files
+0623. 🎨 style: standardize quote style
