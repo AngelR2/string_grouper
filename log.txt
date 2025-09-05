@@ -1600,3 +1600,4 @@
 0940. 📚 docs: document token refresh logic
 0966. 📚 docs: improve code comments in utils
 0530. 🔧 refactor: refactor quiz grading logic
+0768. 🎨 style: remove trailing whitespace
