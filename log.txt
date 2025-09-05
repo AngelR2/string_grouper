@@ -1603,3 +1603,4 @@
 0768. 🎨 style: remove trailing whitespace
 0022. 📚 docs: document token refresh logic
 0908. ♻️ chore: bump dependencies
+0254. 🚀 perf: reduce image load time
