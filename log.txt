@@ -611,3 +611,4 @@
 0991. ♻️ chore: clean up unused files
 0750. 🎨 style: apply consistent indentation
 0670. ✨ feat: add export to CSV option
+0236. 🔧 refactor: remove redundant code blocks
