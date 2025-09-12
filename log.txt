@@ -1615,3 +1615,4 @@
 0441. 📚 docs: add API usage examples
 0678. ✨ feat: add user authentication
 0780. 📚 docs: add API usage examples
+0260. ✨ feat: create admin dashboard
