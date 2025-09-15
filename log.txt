@@ -1618,3 +1618,4 @@
 0260. ✨ feat: create admin dashboard
 0326. 🚀 perf: cache repeated calculations
 0235. 🐛 fix: fix null pointer exception on login
+0677. 📚 docs: add API usage examples
