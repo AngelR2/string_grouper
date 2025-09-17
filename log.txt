@@ -1621,3 +1621,4 @@
 0677. 📚 docs: add API usage examples
 0336. ✨ feat: add export to CSV option
 0985. 📚 docs: document token refresh logic
+0914. ✅ test: test user registration edge cases
