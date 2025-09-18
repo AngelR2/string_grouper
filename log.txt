@@ -1625,3 +1625,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0091. ✨ feat: add user authentication
 0983. 🔧 refactor: split large controller into smaller functions
+0558. ✨ feat: enable dark mode toggle
