@@ -621,3 +621,4 @@
 0545. 🎨 style: standardize quote style
 0879. 🎨 style: standardize quote style
 0171. 🐛 fix: fix broken CSS in mobile view
+0368. 🚀 perf: lazy-load components
