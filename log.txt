@@ -1627,3 +1627,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0558. ✨ feat: enable dark mode toggle
 0170. ✅ test: increase coverage on auth module
+0277. 🎨 style: standardize quote style
