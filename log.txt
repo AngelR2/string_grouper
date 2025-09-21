@@ -628,3 +628,4 @@
 0819. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
 0974. ✨ feat: add export to CSV option
+0402. 🎨 style: reformat files with black
