@@ -636,3 +636,4 @@
 0332. 🎨 style: standardize quote style
 0316. 🐛 fix: fix broken CSS in mobile view
 0663. 🚀 perf: reduce image load time
+0019. ✨ feat: enable dark mode toggle
