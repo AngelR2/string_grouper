@@ -1642,3 +1642,4 @@
 0152. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
 0282. 🔧 refactor: remove redundant code blocks
+0271. ✅ test: add unit test for quiz service
