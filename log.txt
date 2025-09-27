@@ -1645,3 +1645,4 @@
 0271. ✅ test: add unit test for quiz service
 0703. 🔧 refactor: clean up auth middleware
 0615. 🐛 fix: correct typo in registration form
+0947. 📚 docs: write FAQ section
