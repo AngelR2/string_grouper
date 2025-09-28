@@ -642,3 +642,4 @@
 0083. 🎨 style: reformat files with black
 0093. ✅ test: add unit test for quiz service
 0151. ✅ test: add unit test for quiz service
+0002. 🚀 perf: cache repeated calculations
