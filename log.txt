@@ -1650,3 +1650,4 @@
 0612. ✅ test: test user registration edge cases
 0973. 🔧 refactor: organize models into subfolders
 0445. 📚 docs: improve code comments in utils
+0023. 📚 docs: clarify environment setup
