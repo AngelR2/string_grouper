@@ -1651,3 +1651,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0445. 📚 docs: improve code comments in utils
 0023. 📚 docs: clarify environment setup
+0764. ✨ feat: add user authentication
