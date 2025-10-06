@@ -1655,3 +1655,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0364. 🐛 fix: resolve issue with date parsing
 0565. ♻️ chore: add GitHub actions badge
+0063. 🐛 fix: handle 500 error in quiz API
