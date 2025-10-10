@@ -667,3 +667,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0253. 📚 docs: update README with setup steps
 0759. 🔧 refactor: organize models into subfolders
+0636. ✅ test: increase coverage on auth module
