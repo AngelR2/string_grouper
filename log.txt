@@ -666,3 +666,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0162. ♻️ chore: add GitHub actions badge
 0253. 📚 docs: update README with setup steps
+0759. 🔧 refactor: organize models into subfolders
