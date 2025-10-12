@@ -677,3 +677,4 @@
 0657. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
 0443. 🎨 style: standardize quote style
+0503. ♻️ chore: rename env.example
