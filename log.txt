@@ -690,3 +690,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0559. 🔧 refactor: split large controller into smaller functions
 0523. ♻️ chore: bump dependencies
+0611. ✅ test: test user registration edge cases
