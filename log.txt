@@ -1684,3 +1684,4 @@
 0502. 📚 docs: update README with setup steps
 0238. 🎨 style: apply consistent indentation
 0005. ✅ test: add unit test for quiz service
+0122. ✨ feat: support email verification
