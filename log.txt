@@ -694,3 +694,4 @@
 0403. ✅ test: mock database connection in test suite
 0719. 🎨 style: apply consistent indentation
 0907. 🔧 refactor: split large controller into smaller functions
+0040. 🔧 refactor: clean up auth middleware
