@@ -1687,3 +1687,4 @@
 0122. ✨ feat: support email verification
 0010. ✨ feat: add user authentication
 0367. 🐛 fix: fix null pointer exception on login
+0883. 📚 docs: improve code comments in utils
