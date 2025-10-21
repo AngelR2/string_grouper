@@ -699,3 +699,4 @@
 0009. ✨ feat: enable dark mode toggle
 0024. 📚 docs: write FAQ section
 0408. ♻️ chore: add GitHub actions badge
+0701. 🔧 refactor: clean up auth middleware
