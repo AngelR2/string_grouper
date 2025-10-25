@@ -709,3 +709,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0533. ♻️ chore: add GitHub actions badge
 0381. ♻️ chore: clean up unused files
+0731. 🎨 style: standardize quote style
