@@ -1695,3 +1695,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0641. 📚 docs: write FAQ section
 0302. ✨ feat: implement quiz timer feature
+0837. 🚀 perf: cache repeated calculations
