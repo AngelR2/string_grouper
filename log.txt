@@ -1693,3 +1693,4 @@
 0406. ✨ feat: add export to CSV option
 0241. 📚 docs: add API usage examples
 0920. 🔧 refactor: organize models into subfolders
+0641. 📚 docs: write FAQ section
