@@ -1697,3 +1697,4 @@
 0302. ✨ feat: implement quiz timer feature
 0837. 🚀 perf: cache repeated calculations
 0284. ✨ feat: implement quiz timer feature
+0349. ✅ test: increase coverage on auth module
