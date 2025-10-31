@@ -1704,3 +1704,4 @@
 0342. 🚀 perf: cache repeated calculations
 0258. 🐛 fix: prevent crash on empty input
 0192. ✨ feat: enable dark mode toggle
+0036. 🔧 refactor: clean up auth middleware
