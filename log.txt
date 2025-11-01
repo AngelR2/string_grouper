@@ -723,3 +723,4 @@
 0275. 🎨 style: standardize quote style
 0118. 🚀 perf: reduce image load time
 0139. 📚 docs: document token refresh logic
+0785. ✨ feat: enable dark mode toggle
