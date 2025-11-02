@@ -1708,3 +1708,4 @@
 0151. ✅ test: add unit test for quiz service
 0403. ✅ test: mock database connection in test suite
 0073. 🔧 refactor: split large controller into smaller functions
+0652. 🔧 refactor: organize models into subfolders
