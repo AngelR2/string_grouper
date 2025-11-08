@@ -737,3 +737,4 @@
 0112. ✨ feat: enable dark mode toggle
 0354. 📚 docs: add API usage examples
 0550. 🔧 refactor: split large controller into smaller functions
+0841. 🚀 perf: optimize database query for quiz results
