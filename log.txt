@@ -741,3 +741,4 @@
 0892. ✅ test: add unit test for quiz service
 0320. 📚 docs: update README with setup steps
 0867. 🔧 refactor: refactor quiz grading logic
+0805. ♻️ chore: add GitHub actions badge
