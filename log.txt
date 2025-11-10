@@ -742,3 +742,4 @@
 0320. 📚 docs: update README with setup steps
 0867. 🔧 refactor: refactor quiz grading logic
 0805. ♻️ chore: add GitHub actions badge
+0109. 🚀 perf: lazy-load components
