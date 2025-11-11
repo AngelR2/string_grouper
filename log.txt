@@ -1722,3 +1722,4 @@
 0785. ✨ feat: enable dark mode toggle
 0778. 📚 docs: write FAQ section
 0526. ✨ feat: add user authentication
+0117. ✅ test: increase coverage on auth module
