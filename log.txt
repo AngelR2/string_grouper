@@ -744,3 +744,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0109. 🚀 perf: lazy-load components
 0570. 🎨 style: apply consistent indentation
+0043. ✅ test: add integration test for /submit endpoint
