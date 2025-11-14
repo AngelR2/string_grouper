@@ -1727,3 +1727,4 @@
 0287. 📚 docs: write FAQ section
 0917. ✅ test: add integration test for /submit endpoint
 0050. ✨ feat: enable dark mode toggle
+0579. 📚 docs: clarify environment setup
