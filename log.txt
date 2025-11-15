@@ -748,3 +748,4 @@
 0927. ♻️ chore: bump dependencies
 0271. ✅ test: add unit test for quiz service
 0277. 🎨 style: standardize quote style
+0290. ✅ test: test user registration edge cases
