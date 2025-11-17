@@ -1734,3 +1734,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0283. ♻️ chore: add GitHub actions badge
 0074. ♻️ chore: add GitHub actions badge
+0697. ♻️ chore: bump dependencies
