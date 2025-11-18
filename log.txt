@@ -1736,3 +1736,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0697. ♻️ chore: bump dependencies
 0291. 📚 docs: write FAQ section
+0259. 🚀 perf: lazy-load components
