@@ -757,3 +757,4 @@
 0143. ✨ feat: implement quiz timer feature
 0474. ✅ test: add unit test for quiz service
 0150. 🎨 style: remove trailing whitespace
+0420. 🚀 perf: reduce image load time
