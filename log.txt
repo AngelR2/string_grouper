@@ -758,3 +758,4 @@
 0474. ✅ test: add unit test for quiz service
 0150. 🎨 style: remove trailing whitespace
 0420. 🚀 perf: reduce image load time
+0003. ✅ test: increase coverage on auth module
