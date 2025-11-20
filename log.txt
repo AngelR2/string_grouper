@@ -1739,3 +1739,4 @@
 0259. 🚀 perf: lazy-load components
 0750. 🎨 style: apply consistent indentation
 0706. ✨ feat: support email verification
+0952. 🔧 refactor: split large controller into smaller functions
