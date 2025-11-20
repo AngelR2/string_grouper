@@ -1738,3 +1738,4 @@
 0291. 📚 docs: write FAQ section
 0259. 🚀 perf: lazy-load components
 0750. 🎨 style: apply consistent indentation
+0706. ✨ feat: support email verification
