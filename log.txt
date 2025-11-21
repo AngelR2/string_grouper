@@ -1740,3 +1740,4 @@
 0750. 🎨 style: apply consistent indentation
 0706. ✨ feat: support email verification
 0952. 🔧 refactor: split large controller into smaller functions
+0891. ✨ feat: create admin dashboard
