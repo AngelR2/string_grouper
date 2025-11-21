@@ -1741,3 +1741,4 @@
 0706. ✨ feat: support email verification
 0952. 🔧 refactor: split large controller into smaller functions
 0891. ✨ feat: create admin dashboard
+0443. 🎨 style: standardize quote style
