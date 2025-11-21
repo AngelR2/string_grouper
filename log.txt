@@ -760,3 +760,4 @@
 0420. 🚀 perf: reduce image load time
 0003. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
+0752. ✅ test: add integration test for /submit endpoint
