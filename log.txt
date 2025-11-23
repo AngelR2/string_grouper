@@ -767,3 +767,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0323. 📚 docs: clarify environment setup
 0856. 🐛 fix: fix null pointer exception on login
+1000. ✅ test: increase coverage on auth module
