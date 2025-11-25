@@ -771,3 +771,4 @@
 0146. 🎨 style: apply consistent indentation
 0983. 🔧 refactor: split large controller into smaller functions
 0915. 🚀 perf: cache repeated calculations
+0243. 🔧 refactor: clean up auth middleware
