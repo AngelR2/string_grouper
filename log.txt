@@ -1748,3 +1748,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0421. 🔧 refactor: split large controller into smaller functions
 0523. ♻️ chore: bump dependencies
+0174. 📚 docs: clarify environment setup
