@@ -777,3 +777,4 @@
 0384. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
+0837. 🚀 perf: cache repeated calculations
