@@ -779,3 +779,4 @@
 0460. 📚 docs: write FAQ section
 0837. 🚀 perf: cache repeated calculations
 0391. 🐛 fix: fix null pointer exception on login
+0028. 🎨 style: standardize quote style
