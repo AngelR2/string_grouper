@@ -780,3 +780,4 @@
 0837. 🚀 perf: cache repeated calculations
 0391. 🐛 fix: fix null pointer exception on login
 0028. 🎨 style: standardize quote style
+0713. 🐛 fix: handle 500 error in quiz API
