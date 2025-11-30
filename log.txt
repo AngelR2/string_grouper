@@ -1752,3 +1752,4 @@
 0931. 🚀 perf: reduce image load time
 0803. ✅ test: mock database connection in test suite
 0157. ✅ test: mock database connection in test suite
+0369. 🎨 style: standardize quote style
