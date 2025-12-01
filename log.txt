@@ -1753,3 +1753,4 @@
 0803. ✅ test: mock database connection in test suite
 0157. ✅ test: mock database connection in test suite
 0369. 🎨 style: standardize quote style
+0393. 🚀 perf: lazy-load components
