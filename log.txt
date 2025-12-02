@@ -1755,3 +1755,4 @@
 0369. 🎨 style: standardize quote style
 0393. 🚀 perf: lazy-load components
 0462. ♻️ chore: update .gitignore
+0475. 🔧 refactor: clean up auth middleware
