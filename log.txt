@@ -787,3 +787,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0157. ✅ test: mock database connection in test suite
 0328. 🐛 fix: resolve issue with date parsing
+0513. ♻️ chore: bump dependencies
