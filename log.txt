@@ -788,3 +788,4 @@
 0157. ✅ test: mock database connection in test suite
 0328. 🐛 fix: resolve issue with date parsing
 0513. ♻️ chore: bump dependencies
+0397. 🐛 fix: handle 500 error in quiz API
