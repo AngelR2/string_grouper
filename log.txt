@@ -1765,3 +1765,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0144. ✅ test: increase coverage on auth module
 0344. ♻️ chore: add GitHub actions badge
+0645. 🐛 fix: resolve issue with date parsing
