@@ -1766,3 +1766,4 @@
 0144. ✅ test: increase coverage on auth module
 0344. ♻️ chore: add GitHub actions badge
 0645. 🐛 fix: resolve issue with date parsing
+0842. 🎨 style: remove trailing whitespace
