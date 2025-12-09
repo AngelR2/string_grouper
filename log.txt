@@ -1770,3 +1770,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0279. ✨ feat: support email verification
 0899. 🚀 perf: cache repeated calculations
+0595. ✨ feat: enable dark mode toggle
