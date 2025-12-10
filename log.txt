@@ -1771,3 +1771,4 @@
 0279. ✨ feat: support email verification
 0899. 🚀 perf: cache repeated calculations
 0595. ✨ feat: enable dark mode toggle
+0281. ✨ feat: support email verification
