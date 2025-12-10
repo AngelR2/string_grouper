@@ -798,3 +798,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0267. 📚 docs: improve code comments in utils
 0787. ♻️ chore: rename env.example
+0085. ✨ feat: support email verification
