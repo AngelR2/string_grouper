@@ -808,3 +808,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0882. 🚀 perf: optimize database query for quiz results
 0375. 🐛 fix: handle 500 error in quiz API
+0948. 🐛 fix: fix broken CSS in mobile view
