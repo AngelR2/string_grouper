@@ -1781,3 +1781,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0070. ✨ feat: implement quiz timer feature
 0761. ✅ test: add unit test for quiz service
+0185. 📚 docs: write FAQ section
