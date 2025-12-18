@@ -818,3 +818,4 @@
 0987. ✨ feat: create admin dashboard
 0312. ✨ feat: add user authentication
 0900. 🐛 fix: handle 500 error in quiz API
+0754. 🐛 fix: handle 500 error in quiz API
