@@ -814,3 +814,4 @@
 0180. ✨ feat: add export to CSV option
 0165. 🎨 style: remove trailing whitespace
 0490. ✨ feat: create admin dashboard
+0298. ♻️ chore: update .gitignore
