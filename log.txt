@@ -816,3 +816,4 @@
 0490. ✨ feat: create admin dashboard
 0298. ♻️ chore: update .gitignore
 0987. ✨ feat: create admin dashboard
+0312. ✨ feat: add user authentication
