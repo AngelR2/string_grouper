@@ -824,3 +824,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0594. 🎨 style: reformat files with black
 0419. 🎨 style: remove trailing whitespace
+0174. 📚 docs: clarify environment setup
