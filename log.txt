@@ -823,3 +823,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0220. 🐛 fix: fix null pointer exception on login
 0594. 🎨 style: reformat files with black
+0419. 🎨 style: remove trailing whitespace
