@@ -1797,3 +1797,4 @@
 0606. 📚 docs: improve code comments in utils
 0297. 🎨 style: remove trailing whitespace
 0079. 🐛 fix: correct typo in registration form
+0937. 🐛 fix: handle 500 error in quiz API
