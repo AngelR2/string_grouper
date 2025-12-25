@@ -834,3 +834,4 @@
 0170. ✅ test: increase coverage on auth module
 0126. 🎨 style: rename variables for clarity
 0600. 🐛 fix: prevent crash on empty input
+0110. 🐛 fix: prevent crash on empty input
