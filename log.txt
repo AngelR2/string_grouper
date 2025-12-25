@@ -1804,3 +1804,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0345. 📚 docs: document token refresh logic
 0663. 🚀 perf: reduce image load time
+0827. 🚀 perf: optimize database query for quiz results
