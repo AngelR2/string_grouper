@@ -1813,3 +1813,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0967. ♻️ chore: add GitHub actions badge
 0964. ♻️ chore: clean up unused files
+0405. ✅ test: mock database connection in test suite
