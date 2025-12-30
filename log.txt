@@ -1814,3 +1814,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0964. ♻️ chore: clean up unused files
 0405. ✅ test: mock database connection in test suite
+0225. 🚀 perf: reduce image load time
