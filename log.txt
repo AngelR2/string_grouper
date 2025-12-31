@@ -840,3 +840,4 @@
 0846. ✨ feat: implement quiz timer feature
 0769. ✨ feat: create admin dashboard
 0360. ✨ feat: add export to CSV option
+0994. 🚀 perf: reduce image load time
