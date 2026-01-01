@@ -1822,3 +1822,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0067. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0722. 📚 docs: add API usage examples
