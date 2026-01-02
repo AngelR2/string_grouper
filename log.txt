@@ -845,3 +845,4 @@
 0873. 🚀 perf: cache repeated calculations
 0294. 🐛 fix: prevent crash on empty input
 0901. ✨ feat: add user authentication
+0050. ✨ feat: enable dark mode toggle
