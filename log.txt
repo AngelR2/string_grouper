@@ -1827,3 +1827,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0267. 📚 docs: improve code comments in utils
 0208. 🔧 refactor: clean up auth middleware
+0097. 🐛 fix: handle 500 error in quiz API
