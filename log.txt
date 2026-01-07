@@ -1835,3 +1835,4 @@
 0011. ✅ test: add unit test for quiz service
 0464. 🎨 style: remove trailing whitespace
 0754. 🐛 fix: handle 500 error in quiz API
+0187. ✨ feat: support email verification
