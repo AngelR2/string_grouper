@@ -1837,3 +1837,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0187. ✨ feat: support email verification
 0146. 🎨 style: apply consistent indentation
+0992. ♻️ chore: clean up unused files
