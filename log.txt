@@ -1847,3 +1847,4 @@
 0401. 🚀 perf: reduce image load time
 0155. ✨ feat: create admin dashboard
 0106. 🎨 style: reformat files with black
+0593. 🐛 fix: correct typo in registration form
