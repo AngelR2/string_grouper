@@ -864,3 +864,4 @@
 0031. 📚 docs: document token refresh logic
 0338. ♻️ chore: add GitHub actions badge
 0680. ♻️ chore: add GitHub actions badge
+0186. ✅ test: test user registration edge cases
