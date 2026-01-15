@@ -865,3 +865,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0680. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
+0876. ♻️ chore: rename env.example
