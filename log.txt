@@ -867,3 +867,4 @@
 0186. ✅ test: test user registration edge cases
 0876. ♻️ chore: rename env.example
 0823. ✨ feat: add user authentication
+0792. 🎨 style: standardize quote style
