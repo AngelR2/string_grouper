@@ -1853,3 +1853,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0404. 📚 docs: improve code comments in utils
 0699. 🎨 style: standardize quote style
+0843. 📚 docs: document token refresh logic
