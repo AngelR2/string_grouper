@@ -877,3 +877,4 @@
 0574. ✨ feat: enable dark mode toggle
 0292. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
+0293. ✅ test: add integration test for /submit endpoint
