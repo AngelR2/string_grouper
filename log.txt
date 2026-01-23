@@ -878,3 +878,4 @@
 0292. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
 0293. ✅ test: add integration test for /submit endpoint
+0025. 🚀 perf: optimize database query for quiz results
