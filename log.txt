@@ -1870,3 +1870,4 @@
 0994. 🚀 perf: reduce image load time
 0318. 🔧 refactor: refactor quiz grading logic
 0053. ✅ test: increase coverage on auth module
+0756. ✨ feat: support email verification
