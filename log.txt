@@ -1869,3 +1869,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0994. 🚀 perf: reduce image load time
 0318. 🔧 refactor: refactor quiz grading logic
+0053. ✅ test: increase coverage on auth module
