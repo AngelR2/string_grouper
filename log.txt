@@ -1873,3 +1873,4 @@
 0756. ✨ feat: support email verification
 0625. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
+0412. ✅ test: increase coverage on auth module
