@@ -900,3 +900,4 @@
 0252. 🎨 style: remove trailing whitespace
 0586. 🎨 style: remove trailing whitespace
 0770. ♻️ chore: rename env.example
+0434. 📚 docs: document token refresh logic
