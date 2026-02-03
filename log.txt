@@ -904,3 +904,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0925. ✨ feat: add export to CSV option
 0273. 🚀 perf: reduce image load time
+0710. 🐛 fix: fix broken CSS in mobile view
