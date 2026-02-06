@@ -1890,3 +1890,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0366. 🔧 refactor: remove redundant code blocks
 0489. 🔧 refactor: organize models into subfolders
+0388. 🎨 style: reformat files with black
