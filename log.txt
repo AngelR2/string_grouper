@@ -910,3 +910,4 @@
 0348. ✅ test: test user registration edge cases
 0563. 📚 docs: clarify environment setup
 0405. ✅ test: mock database connection in test suite
+0219. ✅ test: increase coverage on auth module
