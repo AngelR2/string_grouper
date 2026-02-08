@@ -1894,3 +1894,4 @@
 0990. ♻️ chore: rename env.example
 0206. 🐛 fix: handle 500 error in quiz API
 0035. ✅ test: increase coverage on auth module
+0324. 📚 docs: document token refresh logic
