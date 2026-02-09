@@ -915,3 +915,4 @@
 0108. 🎨 style: remove trailing whitespace
 0977. 🔧 refactor: organize models into subfolders
 0579. 📚 docs: clarify environment setup
+0726. ✨ feat: enable dark mode toggle
