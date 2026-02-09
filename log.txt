@@ -916,3 +916,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0579. 📚 docs: clarify environment setup
 0726. ✨ feat: enable dark mode toggle
+0903. ✅ test: mock database connection in test suite
