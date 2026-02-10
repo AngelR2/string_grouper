@@ -921,3 +921,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0965. 🎨 style: reformat files with black
 0392. 🎨 style: remove trailing whitespace
+0954. 🚀 perf: cache repeated calculations
