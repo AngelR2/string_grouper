@@ -1904,3 +1904,4 @@
 0242. ♻️ chore: clean up unused files
 0512. 🚀 perf: reduce image load time
 0468. 📚 docs: update README with setup steps
+0789. ✨ feat: create admin dashboard
