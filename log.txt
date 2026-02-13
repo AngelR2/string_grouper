@@ -929,3 +929,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0931. 🚀 perf: reduce image load time
 0535. 📚 docs: write FAQ section
+0274. 🔧 refactor: refactor quiz grading logic
