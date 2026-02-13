@@ -1909,3 +1909,4 @@
 0910. 🎨 style: remove trailing whitespace
 0353. ♻️ chore: rename env.example
 0971. 🎨 style: standardize quote style
+0507. 🔧 refactor: clean up auth middleware
