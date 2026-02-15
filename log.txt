@@ -933,3 +933,4 @@
 0969. ✨ feat: create admin dashboard
 0831. 📚 docs: clarify environment setup
 0854. ♻️ chore: rename env.example
+0160. ♻️ chore: bump dependencies
