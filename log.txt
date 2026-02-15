@@ -1915,3 +1915,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0184. 📚 docs: improve code comments in utils
 0740. 🐛 fix: resolve issue with date parsing
+0923. ✨ feat: support email verification
