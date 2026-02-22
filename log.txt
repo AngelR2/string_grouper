@@ -1928,3 +1928,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0002. 🚀 perf: cache repeated calculations
 0978. 🐛 fix: prevent crash on empty input
+0894. ✅ test: add integration test for /submit endpoint
