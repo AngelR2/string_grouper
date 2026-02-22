@@ -1927,3 +1927,4 @@
 0362. 📚 docs: add API usage examples
 0753. 🔧 refactor: remove redundant code blocks
 0002. 🚀 perf: cache repeated calculations
+0978. 🐛 fix: prevent crash on empty input
