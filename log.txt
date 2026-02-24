@@ -1933,3 +1933,4 @@
 0707. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
 0810. 🔧 refactor: refactor quiz grading logic
+0068. 🐛 fix: fix null pointer exception on login
