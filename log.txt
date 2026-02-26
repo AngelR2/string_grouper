@@ -1940,3 +1940,4 @@
 0834. ✅ test: increase coverage on auth module
 0390. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
+0145. 📚 docs: improve code comments in utils
