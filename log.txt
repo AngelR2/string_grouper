@@ -1944,3 +1944,4 @@
 0061. ✨ feat: create admin dashboard
 0103. 🔧 refactor: remove redundant code blocks
 0132. ✅ test: add unit test for quiz service
+0790. 📚 docs: write FAQ section
