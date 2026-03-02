@@ -1948,3 +1948,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0529. 📚 docs: write FAQ section
 0392. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
