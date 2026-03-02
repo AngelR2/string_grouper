@@ -1950,3 +1950,4 @@
 0392. 🎨 style: remove trailing whitespace
 0929. ✨ feat: support email verification
 0742. 📚 docs: clarify environment setup
+0188. 🎨 style: apply consistent indentation
