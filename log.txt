@@ -966,3 +966,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0576. ♻️ chore: update .gitignore
 0492. 🎨 style: remove trailing whitespace
+0855. 🎨 style: reformat files with black
