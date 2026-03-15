@@ -1968,3 +1968,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
 0624. ✅ test: add unit test for quiz service
+0299. 🐛 fix: resolve issue with date parsing
