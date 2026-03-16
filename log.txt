@@ -1970,3 +1970,4 @@
 0624. ✅ test: add unit test for quiz service
 0299. 🐛 fix: resolve issue with date parsing
 0128. ♻️ chore: rename env.example
+0109. 🚀 perf: lazy-load components
