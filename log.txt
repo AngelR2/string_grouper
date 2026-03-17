@@ -1972,3 +1972,4 @@
 0128. ♻️ chore: rename env.example
 0109. 🚀 perf: lazy-load components
 0733. 🐛 fix: fix null pointer exception on login
+0788. 📚 docs: add API usage examples
