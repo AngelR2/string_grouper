@@ -1980,3 +1980,4 @@
 0811. 🎨 style: reformat files with black
 0608. 🔧 refactor: remove redundant code blocks
 0774. 🔧 refactor: refactor quiz grading logic
+0659. 📚 docs: add API usage examples
