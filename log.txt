@@ -988,3 +988,4 @@
 0445. 📚 docs: improve code comments in utils
 0569. 📚 docs: document token refresh logic
 0347. ♻️ chore: update .gitignore
+0450. 🐛 fix: fix broken CSS in mobile view
