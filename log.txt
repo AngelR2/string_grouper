@@ -1987,3 +1987,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0308. 🚀 perf: reduce image load time
 0268. 🐛 fix: prevent crash on empty input
+0701. 🔧 refactor: clean up auth middleware
