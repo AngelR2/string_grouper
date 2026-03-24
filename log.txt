@@ -1992,3 +1992,4 @@
 0305. ✨ feat: enable dark mode toggle
 0444. ✅ test: add unit test for quiz service
 0709. ♻️ chore: bump dependencies
+0594. 🎨 style: reformat files with black
