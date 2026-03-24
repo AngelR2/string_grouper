@@ -1994,3 +1994,4 @@
 0709. ♻️ chore: bump dependencies
 0594. 🎨 style: reformat files with black
 0779. 🔧 refactor: organize models into subfolders
+0193. 🚀 perf: optimize database query for quiz results
